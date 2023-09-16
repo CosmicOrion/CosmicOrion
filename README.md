@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tomasz</h1>
-<h3 align="center">I'm young Developer from Poland</h3>
+<h3 align="center">I live in Poland</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcinpompka" alt="marcinpompka" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cosmicorion" alt="cosmicorion" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript and Typescript**
+- 📫 How to reach me **kwsl**
 
-- 📫 How to reach me **michel#5145**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact me:</h3>
 <p align="left">
-<a href="https://discord.gg/michel#5145" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="michel#5145" height="30" width="40" /></a>
+<a href="https://discord.gg/kwsl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kwsl" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
